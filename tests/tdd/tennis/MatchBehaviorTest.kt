@@ -7,7 +7,7 @@ import org.junit.jupiter.api.DisplayName
 import org.junit.jupiter.api.Test
 
 @DisplayName("Behavior: Match behavior")
-class MatchPointComputationUnitTest {
+class MatchBehaviorTest {
 
     val playerA = Player("Myself")
     val playerB = Player("Me")
